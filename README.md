@@ -1,4 +1,4 @@
-# IR-Assignment3
+# WordToVec and Sentiment Analysis
 
 Question 1 (WordToVec), Question 2 (Sentiment Analysis) 
 
